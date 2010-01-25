@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1024px"
+   height="768px"
+   id="svg2816"
+   version="1.1"
+   inkscape:version="0.46+devel r22598 custom"
+   sodipodi:docname="basic_tdd_flow\.svg">
+  <defs
+     id="defs2818">
+    <linearGradient
+       id="linearGradient3763">
+      <stop
+         style="stop-color:#c12a34;stop-opacity:1;"
+         offset="0"
+         id="stop3765" />
+      <stop
+         id="stop3889"
+         offset="0.5"
+         style="stop-color:#803b55;stop-opacity:0.49803922;" />
+      <stop
+         style="stop-color:#404d77;stop-opacity:0;"
+         offset="1"
+         id="stop3767" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 384 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1024 : 384 : 1"
+       inkscape:persp3d-origin="512 : 256 : 1"
+       id="perspective2824" />
+    <inkscape:perspective
+       id="perspective2869"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2918"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2956"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3779"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3763-8"
+       id="radialGradient3769-6"
+       cx="270"
+       cy="108"
+       fx="270"
+       fy="108"
+       r="250"
+       gradientTransform="matrix(1.18,0,0,0.46,-53.6,53.32)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient3763-8">
+      <stop
+         style="stop-color:#00a404;stop-opacity:1;"
+         offset="0"
+         id="stop3765-4" />
+      <stop
+         id="stop3885"
+         offset="0.5"
+         style="stop-color:#20783d;stop-opacity:0.49803922;" />
+      <stop
+         style="stop-color:#404d77;stop-opacity:0;"
+         offset="1"
+         id="stop3767-8" />
+    </linearGradient>
+    <inkscape:perspective
+       id="perspective3817"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <radialGradient
+       r="250"
+       fy="108"
+       fx="270"
+       cy="108"
+       cx="270"
+       gradientTransform="matrix(1.16,0,0,0.52,436.8,191.84)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient3788-6"
+       xlink:href="#linearGradient3763-8-9"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient3763-8-9">
+      <stop
+         style="stop-color:#2a4dc1;stop-opacity:1;"
+         offset="0"
+         id="stop3765-4-7" />
+      <stop
+         style="stop-color:#404d77;stop-opacity:0;"
+         offset="1"
+         id="stop3767-8-5" />
+    </linearGradient>
+    <inkscape:perspective
+       id="perspective3855"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3763-6"
+       id="radialGradient3769-3"
+       cx="270"
+       cy="108"
+       fx="270"
+       fy="108"
+       r="250"
+       gradientTransform="matrix(1.18,0,0,0.46,-53.6,53.32)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient3763-6">
+      <stop
+         style="stop-color:#2a4dc1;stop-opacity:1;"
+         offset="0"
+         id="stop3765-0" />
+      <stop
+         style="stop-color:#404d77;stop-opacity:0;"
+         offset="1"
+         id="stop3767-4" />
+    </linearGradient>
+    <inkscape:perspective
+       id="perspective3903"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3925"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3947"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="577.86364"
+     inkscape:cy="374.60188"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:window-width="1916"
+     inkscape:window-height="1180"
+     inkscape:window-x="0"
+     inkscape:window-y="16"
+     inkscape:window-maximized="0"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2826"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="-120,80"
+       id="guide3887" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata2821">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <rect
+       style="opacity:0.60759499;fill:#19f115;fill-opacity:1;stroke-width:1.39999998;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2989-1-5"
+       width="490"
+       height="160"
+       x="510"
+       y="578" />
+    <rect
+       style="opacity:0.60759499;fill:#19f115;fill-opacity:1;stroke-width:1.39999998;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2989-1"
+       width="490"
+       height="160"
+       x="510"
+       y="268" />
+    <rect
+       style="opacity:0.60759499;fill:#f11c15;fill-opacity:1;stroke-width:1.39999998;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2989-3"
+       width="490"
+       height="130"
+       x="10"
+       y="438" />
+    <rect
+       style="opacity:0.60759499;fill:#f11c15;fill-opacity:1;stroke-width:1.39999998;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2989"
+       width="490"
+       height="130"
+       x="10"
+       y="128" />
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+       x="520"
+       y="298"
+       id="text2851"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="520"
+         y="298"
+         id="tspan2857">public class Adder {</tspan><tspan
+         sodipodi:role="line"
+         x="520"
+         y="328"
+         id="tspan2902">  public int add(int x, int y) {</tspan><tspan
+         sodipodi:role="line"
+         x="520"
+         y="358"
+         id="tspan2904">    return 2;</tspan><tspan
+         sodipodi:role="line"
+         x="520"
+         y="388"
+         id="tspan2906">  }</tspan><tspan
+         sodipodi:role="line"
+         x="520"
+         y="418"
+         id="tspan2908">}</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+       x="20"
+       y="468"
+       id="text2851-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2853-8"
+         x="20"
+         y="468">public void test2plus2() {</tspan><tspan
+         sodipodi:role="line"
+         x="20"
+         y="498"
+         id="tspan2855-1">  Adder adder = Adder.new();</tspan><tspan
+         sodipodi:role="line"
+         x="20"
+         y="528"
+         id="tspan2859-0">  assertEquals(4, adder.add(2,2);</tspan><tspan
+         sodipodi:role="line"
+         x="20"
+         y="558"
+         id="tspan2857-7">}</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+       x="20"
+       y="158"
+       id="text2851-9-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2853-8-5"
+         x="20"
+         y="158">public void test1plus1() {</tspan><tspan
+         sodipodi:role="line"
+         x="20"
+         y="188"
+         id="tspan2855-1-6">  Adder adder = Adder.new();</tspan><tspan
+         sodipodi:role="line"
+         x="20"
+         y="218"
+         id="tspan2859-0-1">  assertEquals(2, adder.add(1,1);</tspan><tspan
+         sodipodi:role="line"
+         x="20"
+         y="248"
+         id="tspan2857-7-7">}</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+       x="264"
+       y="401"
+       id="text2944"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2946"></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+       x="520"
+       y="608"
+       id="text2851-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="520"
+         y="608"
+         id="tspan2857-2">public class Adder {</tspan><tspan
+         sodipodi:role="line"
+         x="520"
+         y="638"
+         id="tspan2902-0">  public int add(int x, int y) {</tspan><tspan
+         sodipodi:role="line"
+         x="520"
+         y="668"
+         id="tspan2904-0">    return x+y;</tspan><tspan
+         sodipodi:role="line"
+         x="520"
+         y="698"
+         id="tspan2906-6">  }</tspan><tspan
+         sodipodi:role="line"
+         x="520"
+         y="728"
+         id="tspan2908-3">}</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Mentone;-inkscape-font-specification:Mentone"
+       x="160"
+       y="88"
+       id="text3891"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3893"
+         x="160"
+         y="88">Very Basic Test Driven Flow</tspan></text>
+  </g>
+</svg>

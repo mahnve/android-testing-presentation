@@ -1,0 +1,38 @@
+Introduction
+	My background
+	| extensive experience testing in Java and Ruby
+	| This is a talk I wanted to go to but I didn't see it anywhere
+	| So I created one myself
+	| This is a beta!
+	TDD Recap (Bild)
+	| Ask if needed
+	Behavior Driven Development
+	| Background for my interest
+Simplistic View
+	Standard JUnit Test
+		Segfaults JVM
+		| On all platforms as well
+Everything found in android.test
+| Do notice the proliferance of classes suffixed 2 etc
+Based on JUnit3
+| methods start with test
+| I don't really mind as I haven't done a lot in JUnit4
+Android Tests are separate applications (Bild)
+| A whole new .apk is installed
+Weird Things
+	Surprising effects of XML editing
+	| semantic checks of XML attribute values
+	|
+	Everything extends View
+	Buttons Extend TextView
+Creating ActivityUnitTestCase
+| We will start here as we want to work with the behavior
+	assertTrue;
+	assertNotNull(getActivity)
+	| fails for no setup and you need to startIntent:
+	| Intent.getIntent(Intent.ACTION_DEFAULT)
+| 
+ActivityTestCase4343543
+| show effect of not having setup()!
+| do clickButton() _without_ @UIThreadTest
+	Do some clicking of buttons
