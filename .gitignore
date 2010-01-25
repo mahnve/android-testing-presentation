@@ -10,4 +10,5 @@ coverage/*.*
 couchdb.*
 cache
 slide*.pdf
-
+src/Dice/bin
+src/DiceTest/bin
