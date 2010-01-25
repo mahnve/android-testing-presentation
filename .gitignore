@@ -9,3 +9,5 @@ spec/log/*.*
 coverage/*.*
 couchdb.*
 cache
+slide*.pdf
+
