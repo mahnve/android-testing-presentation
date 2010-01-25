@@ -1,15 +1,12 @@
 package se.mahnve.dice.test;
 
+import static android.test.TouchUtils.clickView;
+import static android.test.ViewAsserts.assertLeftAligned;
 import se.mahnve.dice.Dice;
 import se.mahnve.dice.R;
-import android.hardware.SensorEvent;
 import android.test.ActivityInstrumentationTestCase2;
-import android.test.UiThreadTest;
-import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
-import static android.test.ViewAsserts.*;
-import static android.test.TouchUtils.*;
 
 public class DiceUnitTest extends ActivityInstrumentationTestCase2<Dice> {
 

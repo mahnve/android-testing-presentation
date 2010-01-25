@@ -5,8 +5,9 @@ import junit.framework.TestCase;
 
 public class DiceThrowerTest extends TestCase {
 	
-	public void testShouldNotBeLessThanZero() {
-		DiceThrower diceThrower = new DiceThrower();
+	private DiceThrower diceThrower;
+
+	public void testShouldBeValidThrow() {
 		for(int i=1; i<100; i++) {
 			if (diceThrower.rollDice() < 1) 
 				fail("should not be less than zero");
@@ -14,6 +15,10 @@ public class DiceThrowerTest extends TestCase {
 				fail("should not be greater than six");
 			
 		}
+	}
+
+	protected void setUp() {
+		diceThrower = new DiceThrower();
 	}
 
 }
