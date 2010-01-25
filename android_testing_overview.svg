@@ -15,7 +15,7 @@
    id="svg2816"
    version="1.1"
    inkscape:version="0.46+devel r22598 custom"
-   sodipodi:docname="default.svg">
+   sodipodi:docname="android_overview.svg">
   <defs
      id="defs2818">
     <marker
@@ -298,6 +298,13 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 0.5 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5437"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -307,9 +314,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="546.35484"
-     inkscape:cy="372.60188"
-     inkscape:current-layer="layer1"
+     inkscape:cx="452.80293"
+     inkscape:cy="434.31735"
+     inkscape:current-layer="g5476"
      inkscape:document-units="px"
      showgrid="true"
      inkscape:window-width="1916"
@@ -390,6 +397,17 @@
          id="flowPara6421" /></flowRoot>    <text
        xml:space="preserve"
        style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Mentone;-inkscape-font-specification:Mentone"
+       x="307.57855"
+       y="108"
+       id="text2874"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2876"
+         x="307.57855"
+         y="108">Android Testing</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Mentone;-inkscape-font-specification:Mentone"
        x="372"
        y="433"
        id="text3674"
@@ -410,5 +428,170 @@
            height="275"
            x="439"
            y="439" /></flowRegion><flowPara
-         id="flowPara3733" /></flowRoot>  </g>
+         id="flowPara3733" /></flowRoot>    <g
+       id="g3777"
+       transform="translate(12.454628,0)">
+      <g
+         id="g5476"
+         transform="translate(-13.22731,0)">
+        <g
+           id="g5529">
+          <rect
+             y="178"
+             x="167.54539"
+             height="160"
+             width="309.99997"
+             id="rect2890"
+             style="opacity:0.60759499;fill:#6e00fd;fill-opacity:0.73214285;stroke:none" />
+          <text
+             sodipodi:linespacing="125%"
+             id="text2878"
+             y="248.10001"
+             x="323.06091"
+             style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Mentone;-inkscape-font-specification:Mentone"
+             xml:space="preserve"><tspan
+               y="248.10001"
+               x="323.06091"
+               sodipodi:role="line"
+               style="font-size:36px;text-align:center;text-anchor:middle"
+               id="tspan4903">Activity</tspan><tspan
+               id="tspan5502"
+               y="293.10001"
+               x="323.06091"
+               sodipodi:role="line"
+               style="font-size:36px;text-align:center;text-anchor:middle">TestCase</tspan></text>
+          <rect
+             y="178"
+             x="548"
+             height="160"
+             width="309.99997"
+             id="rect2890-4"
+             style="opacity:0.60759499;fill:#fdb100;fill-opacity:0.73214285;stroke:none" />
+          <text
+             sodipodi:linespacing="125%"
+             id="text2878-3"
+             y="248.82001"
+             x="703.5155"
+             style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Mentone;-inkscape-font-specification:Mentone"
+             xml:space="preserve"><tspan
+               y="248.82001"
+               x="703.5155"
+               sodipodi:role="line"
+               style="font-size:36px;text-align:center;text-anchor:middle"
+               id="tspan4911">Provider</tspan><tspan
+               id="tspan5509"
+               y="293.82001"
+               x="703.5155"
+               sodipodi:role="line"
+               style="font-size:36px;text-align:center;text-anchor:middle">TestCase</tspan></text>
+          <rect
+             y="518"
+             x="167.54539"
+             height="160"
+             width="309.99997"
+             id="rect2890-2"
+             style="opacity:0.60759499;fill:#fd008d;fill-opacity:0.73214285;stroke:none" />
+          <text
+             sodipodi:linespacing="125%"
+             id="text2878-5"
+             y="611.33801"
+             x="214.34064"
+             style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Mentone;-inkscape-font-specification:Mentone"
+             xml:space="preserve"><tspan
+               y="611.33801"
+               x="214.34064"
+               id="tspan2880-50"
+               sodipodi:role="line"
+               style="font-size:36px">MoreAsserts</tspan></text>
+          <rect
+             y="518"
+             x="548"
+             height="160"
+             width="309.99997"
+             id="rect2890-3"
+             style="opacity:0.60759499;fill:#0047fd;fill-opacity:0.73214285;stroke:none" />
+          <text
+             sodipodi:linespacing="125%"
+             id="text2878-1"
+             y="610.59998"
+             x="647.45929"
+             style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Mentone;-inkscape-font-specification:Mentone"
+             xml:space="preserve"><tspan
+               y="610.59998"
+               x="647.45929"
+               id="tspan2880-2"
+               sodipodi:role="line"
+               style="font-size:36px">Mocks</tspan></text>
+          <rect
+             y="348"
+             x="167.54539"
+             height="160"
+             width="309.99997"
+             id="rect2890-2-7"
+             style="opacity:0.60759499;fill:#66fd00;fill-opacity:0.73214285;stroke:none" />
+          <text
+             sodipodi:linespacing="125%"
+             id="text2878-5-9"
+             y="441.33801"
+             x="322.98834"
+             style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Mentone;-inkscape-font-specification:Mentone"
+             xml:space="preserve"><tspan
+               y="441.33801"
+               x="322.98834"
+               sodipodi:role="line"
+               style="font-size:36px;text-align:center;text-anchor:middle"
+               id="tspan5466">TouchUtils</tspan></text>
+          <rect
+             y="348"
+             x="548"
+             height="160"
+             width="309.99997"
+             id="rect2890-3-9"
+             style="opacity:0.60759499;fill:#fd1100;fill-opacity:0.73214285;stroke:none" />
+          <text
+             sodipodi:linespacing="125%"
+             id="text2878-1-2"
+             y="440.59998"
+             x="599.29468"
+             style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Mentone;-inkscape-font-specification:Mentone"
+             xml:space="preserve"><tspan
+               y="440.59998"
+               x="599.29468"
+               id="tspan2880-2-3"
+               sodipodi:role="line"
+               style="font-size:36px">ViewAsserts</tspan></text>
+        </g>
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot5513"
+           style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Mentone;font-style:normal;font-weight:bold;font-size:56;-inkscape-font-specification:Mentone;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"><flowRegion
+             id="flowRegion5515"><rect
+               id="rect5517"
+               width="369"
+               height="172"
+               x="124"
+               y="343" /></flowRegion><flowPara
+             id="flowPara5519"></flowPara></flowRoot>        <flowRoot
+           xml:space="preserve"
+           id="flowRoot5521"
+           style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Mentone;font-style:normal;font-weight:bold;font-size:56;-inkscape-font-specification:Mentone;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"><flowRegion
+             id="flowRegion5523"><rect
+               id="rect5525"
+               width="357"
+               height="623"
+               x="142"
+               y="101" /></flowRegion><flowPara
+             id="flowPara5527"></flowPara></flowRoot>      </g>
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot5468"
+         style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Mentone;font-style:normal;font-weight:bold;font-size:56;-inkscape-font-specification:Mentone;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"><flowRegion
+           id="flowRegion5470"><rect
+             id="rect5472"
+             width="386.78741"
+             height="168.29141"
+             x="104.6518"
+             y="343.02884" /></flowRegion><flowPara
+           id="flowPara5474"></flowPara></flowRoot>    </g>
+  </g>
 </svg>
