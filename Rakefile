@@ -9,5 +9,5 @@ task :view => :build do
 end
 
 task :present => :build do
-  `impressive -t Crossfade slides.pdf`
+  IO.popen "impressive -t Crossfade slides.pdf"
 end
